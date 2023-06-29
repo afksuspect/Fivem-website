@@ -1,5 +1,5 @@
 # Fivem-website
-Public Free website, should be responsive to anything! Please don't contact me for help as it is a free mock-up website 
+Public Free website, should be responsive to anything! Please don't contact me for help as it is a free mock-up website Use the READ.me for guidance.
 
 ---------------------------------------------------------------------------
 
